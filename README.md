@@ -1,14 +1,14 @@
 # AI-agentic
 # Python Advanced Techniques & API Usage
 
-🎯 Amaç
+ Amaç
 
-Bu repo, AI Agent geliştirmek için gereken temel teknikleri öğretmek amacıyla hazırlanmıştır.
+
 
 Bu repo, **Python ileri seviye konular** ve **API kullanımı** üzerine örnekler içerir.  
 Öğrenilen konular şunlardır:
 
-## 🚀 İçerikler
+##  İçerikler
 1. **Python (İleri Seviye)**
    - `async/await` → Asenkron işlemler
    - `typing` → Tip ipuçları
@@ -28,7 +28,7 @@ Bu repo, **Python ileri seviye konular** ve **API kullanımı** üzerine örnekl
    - Anthropic Claude API
    - HuggingFace Inference API
 
-## 📂 Dosyalar
+##  Dosyalar
 - `info.py` → Tüm örnek Python kodları
 
 ## 🔧 Gereksinimler
