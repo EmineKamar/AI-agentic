@@ -1,0 +1,6 @@
+legal_moves() : geçerli konumdaki tüm yasal hareketlerin bir listesini sağlar
+possible_captures() : geçerli konumdaki tüm olası yakalamaların bir listesini sağlar
+possible_checks() : geçerli konumdaki tüm olası kontrollerin bir listesini sağlar
+get_move_history() : şu ana kadar oynanan tüm hamlelerin listesini sağlar
+get_book_moves() : tüm kitap hareketlerinin bir listesini sağlar
+make_ai_move() : modelin hareketini girmesine izin veren bir arayüz

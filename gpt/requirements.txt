@@ -1,0 +1,7 @@
+requests
+httpx
+websockets
+python-dotenv
+openai
+anthropic
+huggingface_hub
